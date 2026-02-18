@@ -93,13 +93,13 @@ Markdown supports footnotes for supplementary detail[^1].
 
 ### Standard image
 
-![Placeholder image](https://placehold.co/600x200/e2e8f0/475569?text=Standard+Image)
+![Placeholder image](assets/example-image.png)
 
 [View source](https://github.com/appdev-lessons/complete-example-lesson/blob/3df763b043eaa77cdafd90a794cb8300642a172d/content.md?plain=1#L96-L96)
 
 ### Full-width image
 
-![Full-width placeholder](https://placehold.co/1200x200/dbeafe/1e40af?text=Full-Width+Image)
+![Full-width placeholder](assets/example-image.png)
 {: .bleed-full }
 
 [View source](https://github.com/appdev-lessons/complete-example-lesson/blob/3df763b043eaa77cdafd90a794cb8300642a172d/content.md?plain=1#L102-L103)
