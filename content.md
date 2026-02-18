@@ -10,11 +10,15 @@ For a deeper explanation of each feature, see the [Platform Overview](/lessons/7
 
 ### Headings
 
-The heading above and all section headings in this lesson are standard Markdown headings (`##`, `###`, etc.). [View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L9-L11)
+The heading above and all section headings in this lesson are standard Markdown headings (`##`, `###`, etc.).
+
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L9-L11)
 
 ### Text formatting
 
-Here is **bold text**, *italic text*, ***bold and italic***, `inline code`, and ~~strikethrough~~. [View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L17-L17)
+Here is **bold text**, *italic text*, ***bold and italic***, `inline code`, and ~~strikethrough~~.
+
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L19-L19)
 
 ### Unordered list
 
@@ -24,7 +28,7 @@ Here is **bold text**, *italic text*, ***bold and italic***, `inline code`, and 
   - Another nested item
 - Third item
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L21-L25)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L25-L29)
 
 ### Ordered list
 
@@ -34,7 +38,7 @@ Here is **bold text**, *italic text*, ***bold and italic***, `inline code`, and 
    1. Sub-step B
 1. Third step
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L31-L35)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L35-L39)
 
 ### Standard table
 
@@ -45,7 +49,7 @@ Here is **bold text**, *italic text*, ***bold and italic***, `inline code`, and 
 | Java | Static | 1995 |
 | Rust | Static | 2010 |
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L41-L46)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L45-L50)
 
 ### Horizontal rule
 
@@ -53,7 +57,9 @@ A horizontal rule separates these paragraphs:
 
 ---
 
-And here we continue after the rule. [View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L52-L54)
+And here we continue after the rule.
+
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L56-L58)
 
 ### Standard fenced code block
 
@@ -65,7 +71,7 @@ class Greeter
 end
 ```
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L60-L66)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L66-L72)
 
 ### Footnotes
 
@@ -73,7 +79,7 @@ Markdown supports footnotes for supplementary detail[^1].
 
 [^1]: This is a footnote. It appears at the bottom of the lesson and keeps the main text clean.
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L72-L74)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L78-L80)
 
 ---
 
@@ -81,11 +87,15 @@ Markdown supports footnotes for supplementary detail[^1].
 
 ### Default behavior (opens in new tab)
 
-[Visit the Markdown Guide](https://www.markdownguide.org/) — this opens in a new tab by default so learners don't lose their place. [View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L84-L84)
+[Visit the Markdown Guide](https://www.markdownguide.org/) — this opens in a new tab by default so learners don't lose their place.
+
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L90-L90)
 
 ### Same-tab link
 
-[Jump to the Quiz section](#quiz-questions){: target="_self" } — this navigates within the same tab. [View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L88-L88)
+[Jump to the Quiz section](#quiz-questions){: target="_self" } — this navigates within the same tab.
+
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L96-L96)
 
 ---
 
@@ -95,31 +105,14 @@ Markdown supports footnotes for supplementary detail[^1].
 
 ![Placeholder image](assets/example-image.png)
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L96-L96)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L106-L106)
 
 ### Full-width image
 
 ![Full-width placeholder](assets/example-image.png)
 {: .bleed-full }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L102-L103)
-
----
-
-## Raw HTML
-
-You can drop into raw HTML anywhere. Here is an embedded `<details>` element:
-
-<details>
-<summary>Click to expand</summary>
-
-This content is hidden until the learner clicks. You can include **Markdown** inside raw HTML elements — just omit initial indentation.
-
-- Item one
-- Item two
-</details>
-
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L113-L120)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L112-L113)
 
 ---
 
@@ -144,7 +137,7 @@ This is a danger alert.
 This is an info alert.
 {: class="alert alert-info" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L132-L145)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L125-L138)
 
 ### Alert with Markdown inside a `<div>`
 
@@ -156,7 +149,7 @@ This is an info alert.
 - As long as you omit initial indentation inside the `<div>`
 </div>
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L151-L157)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L144-L150)
 
 ### Full-width table with `bleed-full`
 
@@ -171,7 +164,7 @@ This is an info alert.
 
 </div>
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L163-L172)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L156-L165)
 
 ---
 
@@ -187,7 +180,7 @@ You can use Font Awesome icons inline, including "pro" icons:
 - <i class="fa-solid fa-circle-info text-primary"></i> Info
 - <i class="fa-brands fa-github"></i> GitHub
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L182-L188)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L175-L181)
 
 ---
 
@@ -201,7 +194,7 @@ export RAILS_ENV="development"
 ```
 {: copyable }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L198-L202)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L191-L195)
 
 ---
 
@@ -228,7 +221,7 @@ def home():
 ```
 {: filename="app.py" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L212-L229)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L205-L222)
 
 ---
 
@@ -247,7 +240,7 @@ class Dog
 end
 ```
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L239-L248)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L232-L241)
 
 ### Highlight a range of lines
 
@@ -261,7 +254,7 @@ def fibonacci(n):
         return fibonacci(n - 1) + fibonacci(n - 2)
 ```
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L254-L262)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L247-L255)
 
 ### Highlight specific columns
 
@@ -273,7 +266,7 @@ class Calculator
 end
 ```
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L268-L274)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L261-L267)
 
 ### Combined line and column highlighting
 
@@ -285,7 +278,7 @@ tokens.each do |token|
 end
 ```
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L280-L286)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L273-L279)
 
 ---
 
@@ -298,7 +291,7 @@ $$
 \text{score} = \frac{\text{points earned}}{\text{points possible}}
 $$
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L296-L299)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L289-L292)
 
 ### Quadratic formula
 
@@ -307,7 +300,7 @@ $$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L305-L308)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L298-L301)
 
 ### Summation and matrix
 
@@ -329,7 +322,7 @@ $$
 \end{aligned}
 $$
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L314-L330)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L307-L323)
 
 ---
 
@@ -348,7 +341,7 @@ sequenceDiagram
   FirstDraft-->>Instructor: Notify if needs approval / needs human
 ```
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L340-L349)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L333-L342)
 
 ### Flowchart
 
@@ -362,7 +355,7 @@ flowchart TD
   F --> C
 ```
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L355-L363)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L348-L356)
 
 ---
 
@@ -378,7 +371,7 @@ This is an aside. It can contain **Markdown**, `code`, and lists:
 - Note B
 </aside>
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L371-L379)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L364-L372)
 
 ---
 
@@ -388,7 +381,7 @@ This is an aside. It can contain **Markdown**, `code`, and lists:
 >
 > — W. Somerset Maugham
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L387-L389)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L380-L382)
 
 ---
 
@@ -405,7 +398,7 @@ This is an aside. It can contain **Markdown**, `code`, and lists:
   - No — Ruby evaluates the expression before printing.
 {: .choose_best #ex_choose_best title="choose_best example" points="1" answer="2" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L399-L406)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L392-L399)
 
 ### choose_all
 
@@ -420,7 +413,7 @@ This is an aside. It can contain **Markdown**, `code`, and lists:
   - Yes — e.g., `3.14`.
 {: .choose_all #ex_choose_all title="choose_all example" points="3" answer="[1, 2, 4]" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L412-L421)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L405-L414)
 
 ### free_text
 
@@ -431,7 +424,7 @@ This is an aside. It can contain **Markdown**, `code`, and lists:
   - Not quite — try the method that makes every letter uppercase.
 {: .free_text #ex_free_text title="free_text example" points="1" answer="1" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L427-L432)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L420-L425)
 
 ### free_text_number
 
@@ -442,7 +435,7 @@ This is an aside. It can contain **Markdown**, `code`, and lists:
   - Not quite — count the items between the square brackets.
 {: .free_text_number #ex_free_text_number title="free_text_number example" points="1" answer="1" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L438-L443)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L431-L436)
 
 ### needs_approval
 
@@ -451,7 +444,7 @@ This is an aside. It can contain **Markdown**, `code`, and lists:
   - Thank you! Your instructor will review your submission.
 {: .free_text #ex_needs_approval title="needs_approval example" points="1" answer="any" needs_approval="true" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L449-L452)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L442-L445)
 
 ---
 
@@ -467,7 +460,7 @@ puts "Hello, #{name}!"
 ```
 {: .codeblock #ex_ruby title="Runnable Ruby" points="1" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L462-L468)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L455-L461)
 
 ### Runnable Ruby with scaffolding
 
@@ -483,7 +476,7 @@ today = Date.today
 ```
 {: .codeblock #ex_ruby_scaffold title="Scaffolded Ruby" points="1" readonly_lines="[4]" setup_code="1-3" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L476-L484)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L469-L477)
 
 ### Runnable Python
 
@@ -494,7 +487,7 @@ for fruit in fruits:
 ```
 {: .codeblock #ex_python title="Runnable Python" points="1" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L490-L495)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L483-L488)
 
 ### Runnable Hurl
 
@@ -503,7 +496,7 @@ GET https://wttr.in?format=3
 ```
 {: .codeblock #ex_hurl title="Runnable Hurl" points="1" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L501-L504)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L494-L497)
 
 ### Runnable HTML
 
@@ -531,7 +524,7 @@ GET https://wttr.in?format=3
 ```
 {: .codeblock #ex_html title="Runnable HTML" points="1" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L510-L532)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L503-L525)
 
 ---
 
@@ -569,7 +562,7 @@ end
 ```
 {: .codeblock-test #ex_graded_test_2 for="ex_graded" title="Word counter counts words in 'hello world'" points="1" }
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L542-L570)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L535-L563)
 
 ---
 
@@ -577,7 +570,7 @@ end
 
 LTI{Launch Project}(https://grades.firstdraft.com/launch)[S9ymPy6WCsn18gLbByVbZQ7k]{vfdtzJb5bLYqYwuqgeRKpc5d}(10)[Example Project]
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L578-L578)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L571-L571)
 
 ---
 
@@ -596,7 +589,7 @@ ruby my_script.rb
 
 </div>
 
-[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L588-L597)
+[View source](https://github.com/appdev-lessons/complete-example-lesson/blob/84ffebc06ffd6dccb055d2b734c3f5a07b7c20d8/content.md?plain=1#L581-L590)
 
 ---
 
