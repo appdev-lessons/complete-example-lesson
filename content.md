@@ -1,6 +1,6 @@
 # Complete Example Lesson
 
-This lesson is a kitchen-sink reference for every authoring feature available on the First Draft platform. Each section shows a rendered example and links to the raw Markdown source that produced it.
+This lesson is a kitchen-sink reference for every authoring feature available on the First Draft platform. You can [view the source repository here](https://github.com/appdev-lessons/complete-example-lesson/tree/main). Each section shows a rendered example and links to the raw Markdown source that produced it.
 
 For a deeper explanation of each feature, see the [Platform Overview](/lessons/799-platform-overview).
 
